@@ -21,7 +21,7 @@ The goal of this project was to gain **hands-on experience** with infrastructure
 4. **Monitoring** – Prometheus collects metrics, Grafana visualizes them for real-time insights.
 
 ## 📸 Architecture Diagram
-
+![Build Success](ProjectImg/0.jpg)
 
 ## 🚀 Key Learnings
 - Setting up **Infrastructure as Code** with Terraform HCP
